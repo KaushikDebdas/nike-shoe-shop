@@ -1,5 +1,5 @@
 # nike-shoe-shop
-This is a simple website based on shoe store. This website build with Html,Css,JavaScript & Bootstrap.
+This is a simple website based on shoe stores. This website build with Html,CSS,JavaScript & Bootstrap.
 
 Live Preview : https://kaushikdebdas.github.io/nike-shoe-shop/
 
